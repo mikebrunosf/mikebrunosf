@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @mikebrunosf
+- 👀 I’m interested in developing skills to further advance my career in tech!
+- 🌱 I’m currently learning Excel, SQL, Tableau, and R.
+- 💞️ I’m looking to collaborate on projects requiring the use of a junior data analyst!
+- 📫 How to reach me mikebrunosf@gmail.com
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I was born and raised in San Francisco, CA but now I live with my wife in Fukuoka, Japan. I love baseball and trail running! I've played piano since I was 6 years old and guitar since I was 20! I love music and A24 movies.
