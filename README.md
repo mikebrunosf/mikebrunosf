@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mikebrunosf
+- 👋 Hi, I’m Mike!
 - 👀 I’m interested in developing skills to further advance my career in tech!
 - 🌱 I’m currently learning Excel, SQL, Tableau, and R.
 - 💞️ I’m looking to collaborate on projects requiring the use of a junior data analyst!
